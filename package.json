@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Daiwik26/incognito-server/issues"
   },
-  "homepage": "https://github.com/Daiwik26/incognito-server#readme"
+  "homepage": "https://github.com/Daiwik26/incognito-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
