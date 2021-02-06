@@ -1,0 +1,19 @@
+{
+  "name": "incognito-server",
+  "version": "1.0.0",
+  "description": "server-side codebase for incognito.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daiwik26/incognito-server.git"
+  },
+  "author": "Daiwik Khandelwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daiwik26/incognito-server/issues"
+  },
+  "homepage": "https://github.com/Daiwik26/incognito-server#readme"
+}
